@@ -1,6 +1,7 @@
 # MedianHeap
 Find the median of given numbers by implementing heap data structure on python.
 
+Example below does:
 
 Input: A list of numbers.
 
